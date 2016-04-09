@@ -29,6 +29,12 @@ I did not end up actually using the following article, but I found it an interes
 Elias, Megan. "Summoning the Food Ghosts: Food History as Public History." _The Public Historian_ 34.2 (2012): 13-29.  
 http://www.jstor.org/stable/10.1525/tph.2012.34.2.13
 
+*Tools:*
+-[Overview](https://www.overviewdocs.com)   
+-[Online Chart Tool](http://www.onlinecharttool.com/)  
+-[Lexos](http://lexos.wheatoncollege.edu)  
+-[Voyant](http://voyant-tools.org/)   
+
 Introduction picture initially found on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Good_housekeeping_1908_08_a.jpg) and cropped.
 
 ## Process and Tools
