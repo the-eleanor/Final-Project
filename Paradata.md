@@ -29,6 +29,8 @@ I did not end up actually using the following article, but I found it an interes
 Elias, Megan. "Summoning the Food Ghosts: Food History as Public History." _The Public Historian_ 34.2 (2012): 13-29.  
 http://www.jstor.org/stable/10.1525/tph.2012.34.2.13
 
+Introduction picture initially found on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Good_housekeeping_1908_08_a.jpg) and cropped.
+
 ## Process and Tools
 
 I found a basis for my theory in the secondary sources I used, with a few explaining that cookbooks, indeed, were a useful source of history. Because these tended to focus on mid-20th century cookbooks, I also looked up some basic information about 19th century women's experiences to add to the knowledge I had going into the research.
