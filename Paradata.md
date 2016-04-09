@@ -16,7 +16,7 @@ The most valuable places to find secondary sources for this project were on scho
 
 Some of the sources I found, especially through JSTOR, focused on a later time period in regard to cookbooks – this is understandable, as cookbooks became significantly more common and fashionable toward the mid-20th century. However, they still allowed me to prove my point, which was that cookbooks are a site for women's experiences. I also found a source through Google Scholar (the piece by Hélène Le Dantec-Lowry) and one source entirely by accident through Google Images (the Smithsonian Library online exhibit by Erin C. Clements) that related more closely to cookbooks in the 19th century.
 
-Secondary sources:
+*Secondary sources:*
 
 Boles, Frank. "'Stirring Constantly': 150 Years of Michigan Cookbooks." _Michigan Historican Review_ 32.2 (2006): 33-62. http://www.jstor.org/stable/20174168
 
